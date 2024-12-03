@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <h1><caption>Danh sách nhóm</caption></h1>
+</head>
+<body>
+    <ul>
+        <li><a href="Trang của gia bao.html">Nguyễn Hoàng Gia Bảo</a></li>
+        <li><a href="file:///C:/Users/Minh%20Ngoc/Desktop/mngoc/Trang%20c%E1%BB%A7a%20minh%20ngoc.html">Trần Minh Ngọc</a></li>
+    </ul>
+</body>
+</html>
